@@ -5,7 +5,7 @@ A quick file system explorer solution for unity
 
 
 - Usage 
-    - with unity open, just open the FilesExplorer.unitypackage
+    - with unity open, just open the [Package](FilesExplorer.unitypackage)
     - drag [Files Explorer Prefab](ExploreFiles/Prefabs/FilesExplorer.prefab)
     - configure in the last field the extension of the files you want to search
     -   by default it will start on the persistent data path of your Unity Application,
